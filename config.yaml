@@ -1,0 +1,5 @@
+
+source: ./data
+output: ./out
+formats: txt,md,json
+log_level: INFO
